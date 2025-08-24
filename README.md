@@ -36,9 +36,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SmokerADHD/SmokerADHD/output/snake.svg" alt="Snake animation" />
-
-###
